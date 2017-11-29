@@ -4,12 +4,13 @@
 
 ## 当前功能
 
+<img align="right" width="300" src="./assets/intro.gif">
+
 - 个性化定制菜单栏
 - 一键抓取新闻在微信上阅读
 - 讲个笑话
 - 查询图片
 
-![介绍](./assets/intro.gif)
 
 ## 必备条件
 
