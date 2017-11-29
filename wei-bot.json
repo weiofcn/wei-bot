@@ -1,0 +1,42 @@
+{
+  "wechat_account": {
+    "path": "/wechat",
+    "token": "allAnimalsAreFunnyThings",
+    "appid": "wx562343b98a3a3ac1",
+    "appsecret": "67c559f00ed68127e75a51b175fb57d7",
+    "encodingAESKey": "kFRAMk0LA0ZxiS2oWu2qMYNUp4vL8sMvV0rCK0j17rn"
+  },
+  "wechat_menu": {
+    "button": [{
+      "type": "click",
+      "name": "未读消息",
+      "key": "unreadMsg"
+    }, {
+      "name": "工作",
+      "sub_button": [{
+        "type": "view",
+        "name": "Github.com",
+        "url": "https://github.com/weiofcn/"
+      }, {
+        "type": "view",
+        "name": "更新服务器",
+        "url": "https://github.com/weiofcn/"
+      }, {
+        "type": "click",
+        "name": "更新菜单栏",
+        "key": "updateMenu"
+      }]
+    }, {
+      "name": "娱乐",
+      "sub_button": [{
+        "type": "click",
+        "name": "cnblogs",
+        "key": "cnblogNews"
+      }, {
+        "type": "click",
+        "name": "来个图片吧",
+        "key": "V1001_GOOD"
+      }]
+    }]
+  }
+}
